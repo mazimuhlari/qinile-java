@@ -19,4 +19,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <modules>
+        <module>qinile-models</module>
+        <module>qinile-services</module>
+        <module>qinile-sample</module>
+    </modules>
+
 </project>
