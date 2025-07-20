@@ -1,4 +1,4 @@
-package co.za.mazimuhlari;
+package co.za.mazimuhlari.qinile.api;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
