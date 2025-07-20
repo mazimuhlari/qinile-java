@@ -22,7 +22,7 @@
     <modules>
         <module>qinile-models</module>
         <module>qinile-services</module>
-        <module>qinile-sample</module>
+        <module>qinile-samples-quarkus</module>
     </modules>
 
 </project>
