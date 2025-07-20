@@ -20,6 +20,7 @@
         <module>qinile-models</module>
         <module>qinile-services</module>
         <module>qinile-samples-quarkus</module>
+        <module>qinile-repositories</module>
     </modules>
 
 </project>
